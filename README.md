@@ -140,7 +140,7 @@ DVC
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 552334684393.dkr.ecr.us-east-2.amazonaws.com/kidney
+    - Save the URI: 552334684393.dkr.ecr.us-east-1.amazonaws.com/kidney
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -176,8 +176,8 @@ DVC
 
     AWS_REGION = us-east-2
 
-    AWS_ECR_LOGIN_URI =552334684393.dkr.ecr.us-east-2.amazonaws.com
+    AWS_ECR_LOGIN_URI =
 
-    ECR_REPOSITORY_NAME =kidney
+    ECR_REPOSITORY_NAME =
 
 
