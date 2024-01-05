@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/medoyounis/End-to-End-kidney-stone-classification/
+https://github.com/medoyounis/mykidneytumor/
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
