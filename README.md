@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/medoyounis/kidneystone/
+https://github.com/medoyounis/kidneytumor/
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
