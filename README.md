@@ -170,14 +170,14 @@ DVC
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=
+    AWS_ACCESS_KEY_ID=AKIAYBGNWODU2SOK4OVP
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY=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
 
     AWS_REGION = us-east-2
 
-    AWS_ECR_LOGIN_URI = demo>>  
+    AWS_ECR_LOGIN_URI =552334684393.dkr.ecr.us-east-2.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME =kidney
 
 
