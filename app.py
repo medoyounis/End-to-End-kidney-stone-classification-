@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 import os
 from flask_cors import CORS, cross_origin
-from src.cnnClassifier.utils.common import decodeImage
-from src.cnnClassifier.pipeline.prediction import PredictionPipeline
+from src.CNNclassifier.utils.common import decodeImage
+from src.CNNclassifier.pipeline.prediction import PredictionPipeline
 
 
 
